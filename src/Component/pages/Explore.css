@@ -1,0 +1,37 @@
+.explore-card {
+  background-color: #fafafa;
+  border: 2px solid #fafafa;
+  border-radius: 10px;
+  min-height: 570px;
+}
+.explore-card a{
+    display: none;
+    text-decoration: none;
+}
+.explore-card:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.3); 
+}
+.explore-card:hover .explore-contant-ancer{
+    color: gold;
+    display: inline;
+}
+.explore-card h4{
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 36px;
+    margin-top: 48px;
+}
+.explore-topic h2 {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 48px;
+}
+.main-explore{
+    gap: 25px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}

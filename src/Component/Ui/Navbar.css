@@ -1,0 +1,39 @@
+.brandlogo {
+  color: gold;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin-left: 14px;
+}
+.brandlogo:hover {
+  color: gold;
+}
+.footer-button li {
+  padding-right: 20px;
+  list-style: none;
+}
+.binance-button{
+  color: black;
+  padding: 12px 24px;
+  border-radius:5px;
+  background-color: gold;
+  border: gold;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.footer-button button:hover {
+  color: black;
+  background-color: gold;
+  border: gold;
+}
+.footer-button {
+    text-decoration: none;
+    align-items: center;
+    color: black;
+}
+.menu1 svg{
+  margin-top: 20px;
+  color: gold;
+}

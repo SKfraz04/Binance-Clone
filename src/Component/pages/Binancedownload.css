@@ -1,0 +1,45 @@
+.download-content-left h3{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.download-content-left p{
+font-weight: 300;
+font-size: 20px;
+line-height: 28px;
+margin-top: 16px;
+}
+.Download-section a{
+    text-decoration: none;
+    color: gray;
+}
+.Download-section a:hover{
+    color: gold;
+}
+.barcode-card{
+    background-color: #fafafa;
+    padding: 1px;
+    border-radius: 10px;
+    padding: 15px;
+}
+.barcoad-discription{
+    align-self: center;
+}
+.barcoad-discription p{
+    color: #707A8A;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 10px;
+    margin: 0px;
+}
+.barcoad-discription h4{
+color: #1E2329;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+margin: 10px 0 0 0;
+}
+.download-cards{
+    flex-wrap: wrap;
+}

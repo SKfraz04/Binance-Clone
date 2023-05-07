@@ -1,0 +1,59 @@
+.popular-tokan {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  .red {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .green {
+    color: green;
+    font-weight: bold;
+  }
+  .popularCryptos-tagline h2{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .popularCryptos-tagline a{
+    text-decoration: none;
+    color: grey;
+  }  
+  .popularCryptos-tagline a:hover{
+    color: gold;
+  }
+.popular-crypto th{
+  text-align: start;
+  font-weight: 200;
+  color: gray;
+}
+.popular-coin td{
+  width: 300px;
+  padding: 16px 0;
+}
+.popular-coin span{
+  color: gray;
+  font-size: 14px;
+}

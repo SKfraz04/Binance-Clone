@@ -1,0 +1,41 @@
+.dashboard-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .dashboard-table tr:hover {
+    background-color: #ddd;
+  }
+  .price-increase {
+    color: green;
+  }
+  
+  .price-decrease {
+    color: red;
+  }
+  .dashboard-list{
+    padding-left: 0px;
+  }
+.dashboard-list li{
+  text-align: center;
+  width:200px;
+  list-style:none;
+  border: 2px solid transparent;
+  background-color: rgba(128, 128, 128, 0.151);
+}
+.dashboard-list li::before{
+  background: rgba(128, 128, 128, 0.534);
+}
+.dashboard-list:hover{
+  background-color: white;
+  border: 2px solid gold;
+}
+.dashboard-list li:hover:last-child{
+  background-color: gold;
+}
+.dashboard-list li:last-child{
+border-radius:25px;
+display: inline;
+}
+.table-body{
+  flex-wrap: wrap;
+}

@@ -1,0 +1,15 @@
+.binance-portfolio img {
+    max-width:335px;
+    height: auto;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.portfolio-heading h3{
+    font-size: 36px;
+    font-weight: 500;
+}
+.portfolio-heading p{
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+}

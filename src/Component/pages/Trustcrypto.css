@@ -1,0 +1,30 @@
+.trust-crypto-headline h3{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+}
+.trust-crypto-headline a{
+    text-decoration: none;
+    color: gray;
+    justify-content: center;
+}
+.trust-crypto-headline a:hover{
+    color: gold;
+}
+.trust-crypto-headline p{
+    color: gray;
+    font-weight: 400 ;
+}
+.trust-crypto-headline p{
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+margin-top: 16px;
+}
+.trust-crypto-content h4{
+    font-weight: 400;
+    font-size: 22px;
+}
+.trust-crypto-content p{
+    color: gray;
+}

@@ -1,0 +1,43 @@
+.loginpage-discription h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.loginpage-discription a {
+  text-decoration: none;
+  margin-top: auto;
+  font-size: 22px;
+  color: black;
+}
+.loginpage-discription a:hover{
+    color: black;
+}
+.loginpage-discription a span{
+    color: gold;
+}
+.loginpage-discription h3{
+    font-size: 18px;
+    color: grey;
+    padding-left: 15px;
+}
+.binance-button2{
+    padding: 10px 20px;
+    border: 1px solid white;
+    background-color: #474D57;
+}
+.binance-users{
+    flex: 0 0 auto;
+    width: 25%;
+}
+.binance-users h2{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+}
+.binance-users p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+.dark-mode{
+  color: gold;
+}

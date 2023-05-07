@@ -1,0 +1,15 @@
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyB_eWIJpR6E7HoGDuajXGiBiPE6xLmv7gY",
+  authDomain: "binance-login-391d2.firebaseapp.com",
+  projectId: "binance-login-391d2",
+  storageBucket: "binance-login-391d2.appspot.com",
+  messagingSenderId: "196781572989",
+  appId: "1:196781572989:web:1bd754dfa1390e56ebc214",
+  measurementId: "G-HD0X5WCDJN"
+};
+
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
